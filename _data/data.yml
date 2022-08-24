@@ -7,8 +7,8 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 涂家寧 (Daisy Tu)
-    tagline: 第一銀行員
+    name: 涂家寧 Daisy
+    tagline: 現職-第一銀行-行員
     #vatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
