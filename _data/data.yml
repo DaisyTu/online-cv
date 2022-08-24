@@ -27,12 +27,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+家庭概況：
+我是涂家寧，目前居住於高雄，目前任職於第一商業銀行，成長於三人小家庭，父母親皆為公務員體系，家庭生活和樂且非常幸福，因未來職涯人生規劃及家庭規劃將會至北部發展及定居。
+求學與工作經歷
+求學歷練:
+  求學生涯是我相當重要的歷程，就讀資訊管理學系主要學習是資管相關課程，並對未來的資訊敏感程度奠定了相當大的基礎，在這段求學的時光，我藉由接觸多元課程、社團活動or校外工讀，慢慢找出屬於自己的專長及特質。
+  也因為選擇了資訊體系的關係，使我再面對任何事情或是主管上層交付任務時擁有著更多的耐心及細心，因為在交付程式及中不容許犯些許的錯誤，使得我面對各項交辦事項時更加謹慎以對。
+  本身為資訊系畢業，一直就對於資訊領域相當有興趣，下班餘時間常會和朋友一同討論未來資訊的發展，也常常關注新的科技，相信有興趣做任何事情都會非常有動力。
 education:
     - degree: 資訊管理學系
       university: 國立高雄應用科技大學
