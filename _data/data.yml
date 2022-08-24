@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Daisy Tu
+    name: 涂家寧 (Daisy Tu)
     tagline: 第一銀行員
     #vatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -24,10 +24,6 @@ sidebar:
         level: Basic
 
 
-   # interests:
-   #   - item: Climbing
-   #     link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -38,9 +34,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 資訊管理學系
+      university: 國立高雄應用科技大學
+      time: 2009 - 2013  
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -49,103 +45,23 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          
 experiences:
-    - role: Lead Developer
+    - role: 第一銀行-行員
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: 第一銀行
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+       於永豐銀經歷後想給予自己有實戰的經驗當然也想追求穩定的事業，我後來選擇經過考試擔任行員，除了接觸到原本的客戶，更培養自身的專業能力，當然這當中也思考了很多除了自己有興趣在這部分之外，對於部門統整及相關協調的部分我相當具有信心能完成主管所交付的事項。
+    - role: 永豐金-理財專員
       time: 2014 - 2015
-      company: Google, London
+      company: 永豐金
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+       我後來想更與客戶對談我接觸了金融業，由於公司需要推銷相當多的產品舉凡保險及信用卡業務，也因此我培養了更多面對人群的經驗，在面對陌生人群的時候更有勇氣去闡述各種產品，並且針對每個客戶打造符合其自身的規劃，並且為他們找到一個合理並且不失公司利益的解決方式達到互益的模式，並且學習到良好溝通協調能力。
+    - role: 前進數位－客戶工程師
       time: 2012 - 2014
-      company: Amazon, London
+      company: 前進數位
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+       過去求學階段我擁有累積了1~2年的打工經驗也都是與客戶交談為主，然而我自覺尤其在與人群交談時我有著解決客戶的應對能力，而這份工作經歷讓我對於科技業客服與人群接觸有了相當豐富的經驗，在人群間相處時了解各個客群的客訴，並且協助客戶訴怨解決問題時更能清楚且適時地表達自己，這對我工作上進退及應對能力更加茁壯也因這樣的經驗令我更加成長，學習到良好溝通協調能力。
 
 skills:
     title: Skills &amp; Proficiency
