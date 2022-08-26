@@ -72,10 +72,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C#
-        level: 35%
-        
-      - name: Node.js
+      - name: C# / Node.js
         level: 35%
 
       - name: Javascript & jQuery
